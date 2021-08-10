@@ -1,0 +1,23 @@
+<div>
+    <h2>Accueil</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>DESCRIPTION</th>
+                <th>PICTURE</th>
+                <th>TYPE</th>
+            </tr>
+        </thead>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><img src="" alt="sonic character"></td>
+                <td></td>
+            </tr>
+    </table>
+</div>
+</body>
+</html>

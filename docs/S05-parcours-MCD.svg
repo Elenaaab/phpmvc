@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="334" height="142" view_box="0 0 334 142"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Mon, 01 Jul 2019 04:56:04</desc>
+
+<rect id="frame" x="0" y="0" width="334" height="142" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association is a -->
+<line x1="61" y1="71" x2="171" y2="71" stroke="#4C3D30" stroke-width="1"/>
+<text x="118" y="87.0" fill="#5C4827" font-family="Courier New" font-size="12">1,1</text>
+<line x1="277" y1="71" x2="171" y2="71" stroke="#4C3D30" stroke-width="1"/>
+<text x="201" y="87.0" fill="#5C4827" font-family="Courier New" font-size="12">0,N</text>
+<g id="association-is a">
+	<path d="M 182 45 a 14 14 90 0 1 14 14 V 71 h -50 V 59 a 14 14 90 0 1 14 -14" fill="#CE9F6F" stroke="#CE9F6F" stroke-width="0"/>
+	<path d="M 196 71.0 v 12 a 14 14 90 0 1 -14 14 H 160 a 14 14 90 0 1 -14 -14 V 71.0 H 50" fill="#E2BE9F" stroke="#E2BE9F" stroke-width="0"/>
+	<rect x="146" y="45" width="50" height="52" fill="none" rx="14" stroke="#896C39" stroke-width="1.5"/>
+	<line x1="146" y1="71" x2="196" y2="71" stroke="#896C39" stroke-width="1"/>
+	<text x="153" y="63.6" fill="#7F5D3B" font-family="Courier New" font-size="14">is a</text>
+</g>
+
+<!-- Entity TYPE -->
+<g id="entity-TYPE">
+	<g id="frame-TYPE">
+		<rect x="229" y="27" width="96" height="26" fill="#FAA945" stroke="#FAA945" stroke-width="0"/>
+		<rect x="229" y="53.0" width="96" height="62" fill="#FFB94E" stroke="#FFB94E" stroke-width="0"/>
+		<rect x="229" y="27" width="96" height="88" fill="none" stroke="#CB7E1F" stroke-width="1.5"/>
+		<line x1="229" y1="53" x2="325" y2="53" stroke="#CB7E1F" stroke-width="1"/>
+	</g>
+	<text x="259" y="45.6" fill="#645530" font-family="Courier New" font-size="14">TYPE</text>
+	<text x="234" y="71.6" fill="#645530" font-family="Courier New" font-size="14">name</text>
+	<line x1="234" y1="74.0" x2="269" y2="74.0" stroke="#645530" stroke-width="1"/>
+	<text x="234" y="89.6" fill="#645530" font-family="Courier New" font-size="14">created_at</text>
+	<text x="234" y="107.6" fill="#645530" font-family="Courier New" font-size="14">updated_at</text>
+</g>
+
+<!-- Entity CHARACTER -->
+<g id="entity-CHARACTER">
+	<g id="frame-CHARACTER">
+		<rect x="9" y="9" width="104" height="26" fill="#FAA945" stroke="#FAA945" stroke-width="0"/>
+		<rect x="9" y="35.0" width="104" height="98" fill="#FFB94E" stroke="#FFB94E" stroke-width="0"/>
+		<rect x="9" y="9" width="104" height="124" fill="none" stroke="#CB7E1F" stroke-width="1.5"/>
+		<line x1="9" y1="35" x2="113" y2="35" stroke="#CB7E1F" stroke-width="1"/>
+	</g>
+	<text x="22" y="27.6" fill="#645530" font-family="Courier New" font-size="14">CHARACTER</text>
+	<text x="14" y="53.6" fill="#645530" font-family="Courier New" font-size="14">name</text>
+	<line x1="14" y1="56.0" x2="49" y2="56.0" stroke="#645530" stroke-width="1"/>
+	<text x="14" y="71.6" fill="#645530" font-family="Courier New" font-size="14">description</text>
+	<text x="14" y="89.6" fill="#645530" font-family="Courier New" font-size="14">picture</text>
+	<text x="14" y="107.6" fill="#645530" font-family="Courier New" font-size="14">created_at</text>
+	<text x="14" y="125.6" fill="#645530" font-family="Courier New" font-size="14">updated_at</text>
+</g>
+</svg>
